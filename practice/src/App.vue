@@ -16,6 +16,8 @@
         球队
       </div>
     </div>
+
+    <div class="tab-body"></div>
   </div>
 </template>
 
